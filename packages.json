@@ -5,7 +5,7 @@
       "eff",
       "prelude"
     ],
-    "repo": "https://github.com/pures11/purescript-assert.git",
+    "repo": "https://github.com/pure11/purescript-assert.git",
     "version": "master"
   },
   "bifunctors": {
