@@ -183,5 +183,5 @@
     ],
     "repo": "https://github.com/purescript/purescript-tuples.git",
     "version": "v2.0.0"
-  },
+  }
 }
