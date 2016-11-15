@@ -6,7 +6,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-assert.git",
-    "version": "master"
+    "version": "v1.0.0p11"
   },
   "bifunctors": {
     "dependencies": [
@@ -23,7 +23,7 @@
       "eff"
     ],
     "repo": "https://github.com/pure11/purescript-console.git",
-    "version": "master"
+    "version": "v1.0.0p11"
   },
   "control": {
     "dependencies": [
@@ -37,7 +37,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-eff.git",
-    "version": "master"
+    "version": v1.0.0p11"
   },
   "either": {
     "dependencies": [
@@ -64,14 +64,14 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-foldable-traversable.git",
-    "version": "master"
+    "version": "v2.0.0p11"
   },
   "functions": {
     "dependencies": [
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-functions.git",
-    "version": "master"
+    "version": "v1.0.0p11"
   },
   "generics-rep": {
     "dependencies": [
@@ -108,7 +108,7 @@
   "math": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-math.git",
-    "version": "master"
+    "version": "v2.0.0p11"
   },
   "maybe": {
     "dependencies": [
@@ -155,12 +155,12 @@
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-partial.git",
-    "version": "master"
+    "version": "v1.1.2p11"
   },
   "prelude": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-prelude.git",
-    "version": "master"
+    "version": "v2.1.0p11"
   },
   "st": {
     "dependencies": [
@@ -168,7 +168,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-st.git",
-    "version": "master"
+    "version": "v1.0.0p11"
   },
   "tuples": {
     "dependencies": [
