@@ -6,7 +6,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-assert.git",
-    "version": "v1.0.0p11"
+    "version": "v1.0.1p11"
   },
   "bifunctors": {
     "dependencies": [
