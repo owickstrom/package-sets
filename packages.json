@@ -32,6 +32,15 @@
     "repo": "https://github.com/purescript/purescript-control.git",
     "version": "v2.0.0"
   },
+  "distributive": {
+    "dependencies": [
+      "prelude",
+      "identity",
+      "newtype"
+    ],
+    "repo": "https://github.com/purescript/purescript-distributive.git",
+    "version": "v2.0.0"
+  },
   "eff": {
     "dependencies": [
       "prelude"
