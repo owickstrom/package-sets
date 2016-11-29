@@ -25,6 +25,39 @@
     "repo": "https://github.com/pure11/purescript-console.git",
     "version": "v1.0.0p11"
   },
+  "const": {
+    "dependencies": [
+      "bifunctors",
+      "contravariant",
+      "control",
+      "either",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude",
+      "tuples"
+    ],
+    "repo": "https://github.com/purescript/purescript-const.git",
+    "version": "v2.0.0"
+  },
+  "contravariant": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "either",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude",
+      "tuples"
+    ],
+    "repo": "https://github.com/purescript/purescript-contravariant.git",
+    "version": "v2.0.0"
+  },
   "control": {
     "dependencies": [
       "prelude"
