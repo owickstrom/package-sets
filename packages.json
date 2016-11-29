@@ -34,9 +34,15 @@
   },
   "distributive": {
     "dependencies": [
-      "prelude",
+      "bifunctors",
+      "control",
+      "foldable-traversable",
       "identity",
-      "newtype"
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-distributive.git",
     "version": "v2.0.0"
