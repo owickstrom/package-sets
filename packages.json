@@ -177,6 +177,24 @@
     "repo": "https://github.com/pure11/purescript-prelude.git",
     "version": "v2.1.0p11"
   },
+  "profunctor": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "distributive",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "prelude",
+      "monoid",
+      "newtype",
+      "tuples"
+    ],
+    "repo": "https://github.com/purescript/purescript-profunctor.git",
+    "version": "v2.0.0"
+  },
   "st": {
     "dependencies": [
       "eff",
