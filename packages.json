@@ -200,6 +200,17 @@
     "repo": "https://github.com/purescript/purescript-nonempty.git",
     "version": "v3.0.0"
   },
+  "orders": {
+    "dependencies": [
+      "control",
+      "invariant",
+      "monoid",
+      "newtype",
+      "prelude"
+    ],
+    "repo": "https://github.com/purescript/purescript-orders.git",
+    "version": "v2.0.0"
+  },
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-partial.git",
@@ -228,6 +239,11 @@
     "repo": "https://github.com/purescript/purescript-profunctor.git",
     "version": "v2.0.0"
   },
+  "proxy": {
+    "dependencies": [],
+    "repo": "https://github.com/purescript/purescript-proxy.git",
+    "version": "v1.0.0"
+  },
   "st": {
     "dependencies": [
       "eff",
@@ -248,6 +264,21 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-tuples.git",
+    "version": "v2.0.0"
+  },
+  "type-equality": {
+    "dependencies": [],
+    "repo": "https://github.com/purescript/purescript-type-equality.git",
+    "version": "v1.0.0"
+  },
+  "validation": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "newtype",
+      "prelude"
+    ],
+    "repo": "https://github.com/purescript/purescript-validation.git",
     "version": "v2.0.0"
   }
 }
