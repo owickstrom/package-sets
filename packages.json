@@ -153,6 +153,13 @@
     "repo": "https://github.com/purescript/purescript-invariant.git",
     "version": "v2.0.0"
   },
+  "lazy": {
+    "dependencies": [
+      "prelude"
+    ],
+    "repo": "https://github.com/owickstrom/purescript-lazy.git",
+    "version": "v2.0.0"
+  },
   "math": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-math.git",
