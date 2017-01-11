@@ -271,6 +271,11 @@
     "repo": "https://github.com/purescript/purescript-type-equality.git",
     "version": "v1.0.0"
   },
+  "unsafe-coerce": {
+    "dependencies": [],
+    "repo": "https://github.com/pure11/purescript-unsafe-coerce.git",
+    "version": "v2.0.0p11"
+  },
   "validation": {
     "dependencies": [
       "bifunctors",
