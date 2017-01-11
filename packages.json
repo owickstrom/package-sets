@@ -214,7 +214,7 @@
   "partial": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-partial.git",
-    "version": "v1.1.2p11"
+    "version": "master"
   },
   "prelude": {
     "dependencies": [],
