@@ -1,4 +1,28 @@
 {
+  "arrays": {
+    "dependencies": [
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "st",
+      "tailrec",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/pure11/purescript-arrays.git",
+    "version": "master"
+  },
   "assert": {
     "dependencies": [
       "console",
@@ -23,7 +47,7 @@
       "eff"
     ],
     "repo": "https://github.com/pure11/purescript-console.git",
-    "version": "v1.0.0p11"
+    "version": "master"
   },
   "const": {
     "dependencies": [
@@ -85,7 +109,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-eff.git",
-    "version": "v1.0.0p11"
+    "version": "master"
   },
   "either": {
     "dependencies": [
@@ -99,7 +123,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-either.git",
-    "version": "v2.0.0"
+    "version": "v2.1.0"
   },
   "foldable-traversable": {
     "dependencies": [
@@ -119,7 +143,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-functions.git",
-    "version": "v1.0.0p11"
+    "version": "master"
   },
   "generics-rep": {
     "dependencies": [
@@ -130,7 +154,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-generics-rep.git",
-    "version": "v3.0.0"
+    "version": "v4.0.0"
   },
   "identity": {
     "dependencies": [
@@ -153,10 +177,21 @@
     "repo": "https://github.com/purescript/purescript-invariant.git",
     "version": "v2.0.0"
   },
+  "lazy": {
+    "dependencies": [
+      "control",
+      "invariant",
+      "monoid",
+      "newtype",
+      "prelude"
+    ],
+    "repo": "https://github.com/pure11/purescript-lazy.git",
+    "version": "master"
+  },
   "math": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-math.git",
-    "version": "v2.0.0p11"
+    "version": "master"
   },
   "maybe": {
     "dependencies": [
@@ -177,14 +212,14 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-monoid.git",
-    "version": "v2.0.0"
+    "version": "v2.2.0"
   },
   "newtype": {
     "dependencies": [
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-newtype.git",
-    "version": "v1.0.0"
+    "version": "v1.1.0"
   },
   "nonempty": {
     "dependencies": [
@@ -209,7 +244,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-orders.git",
-    "version": "v2.0.0"
+    "version": "v2.0.1"
   },
   "partial": {
     "dependencies": [],
@@ -250,7 +285,7 @@
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-st.git",
-    "version": "v1.0.0p11"
+    "version": "master"
   },
   "strings": {
     "dependencies": [
@@ -266,6 +301,34 @@
     ],
     "repo": "https://github.com/pure11/purescript-strings.git",
     "version": "master"
+  },
+  "symbols": {
+    "dependencies": [
+      "prelude",
+      "unsafe-coerce"
+    ],
+    "repo": "https://github.com/purescript/purescript-symbols.git",
+    "version": "v2.0.0"
+  },
+  "tailrec": {
+    "dependencies": [
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "partial",
+      "prelude",
+      "st"
+    ],
+    "repo": "https://github.com/purescript/purescript-tailrec.git",
+    "version": "v2.0.1"
   },
   "tuples": {
     "dependencies": [
@@ -286,10 +349,31 @@
     "repo": "https://github.com/purescript/purescript-type-equality.git",
     "version": "v1.0.0"
   },
+  "typelevel-prelude": {
+    "dependencies": [],
+    "repo": "https://github.com/purescript/purescript-typelevel-prelude.git",
+    "version": "v1.0.0"
+  },
+  "unfoldable": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "partial",
+      "prelude",
+      "tuples"
+    ],
+    "repo": "https://github.com/pure11/purescript-unfoldable.git",
+    "version": "master"
+  },
   "unsafe-coerce": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-unsafe-coerce.git",
-    "version": "v2.0.0p11"
+    "version": "master"
   },
   "validation": {
     "dependencies": [
