@@ -216,6 +216,37 @@
     "repo": "https://github.com/pure11/purescript-lazy.git",
     "version": "master"
   },
+  "lists": {
+    "dependencies": [
+      "arrays",
+      "bifunctors",
+      "assert",
+      "console",
+      "control",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "generics",
+      "identity",
+      "invariant",
+      "lazy",
+      "math",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "proxy",
+      "st",
+      "strings",
+      "tailrec",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/purescript/purescript-lists.git",
+    "version": "v3.3.0"
+  },
   "math": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-math.git",
