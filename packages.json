@@ -429,6 +429,22 @@
     "repo": "https://github.com/pure11/purescript-unfoldable.git",
     "version": "master"
   },
+  "unicode": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "either",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude",
+      "strings"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-unicode.git",
+    "version": "v2.0.1"
+  },
   "unsafe-coerce": {
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-unsafe-coerce.git",
