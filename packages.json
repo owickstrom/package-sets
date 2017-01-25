@@ -435,6 +435,33 @@
     "repo": "https://github.com/purescript/purescript-tailrec.git",
     "version": "v2.0.1"
   },
+  "transformers": {
+    "dependencies": [
+      "arrays",
+      "bifunctors",
+      "console",
+      "control",
+      "eff",
+      "distributive",
+      "either",
+      "foldable-traversable",
+      "identity",
+      "invariant",
+      "lazy",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "st",
+      "tailrec",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/purescript/purescript-transformers.git",
+    "version": "v2.0.2"
+  },
   "tuples": {
     "dependencies": [
       "bifunctors",
