@@ -378,6 +378,21 @@
     "repo": "https://github.com/pure11/purescript-lazy.git",
     "version": "master"
   },
+  "lens-simple": {
+    "dependencies": [
+      "bifunctors",
+      "control",
+      "foldable-traversable",
+      "invariant",
+      "maybe",
+      "monoid",
+      "newtype",
+      "prelude",
+      "tuples"
+    ],
+    "repo": "https://github.com/paf31/purescript-lens-simple.git",
+    "version": "v2.0.0"
+  },
   "lists": {
     "dependencies": [
       "arrays",
@@ -471,6 +486,42 @@
     "dependencies": [],
     "repo": "https://github.com/pure11/purescript-partial.git",
     "version": "master"
+  },
+  "parsing": {
+    "dependencies": [
+      "arrays",
+      "assert",
+      "bifunctors",
+      "console",
+      "control",
+      "distributive",
+      "eff",
+      "either",
+      "foldable-traversable",
+      "generics",
+      "identity",
+      "integers",
+      "invariant",
+      "lazy",
+      "lists",
+      "math",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "proxy",
+      "st",
+      "strings",
+      "tailrec",
+      "transformers",
+      "tuples",
+      "unfoldable",
+      "unicode"
+    ],
+    "repo": "https://github.com/purescript-contrib/purescript-parsing.git",
+    "version": "v3.2.0"
   },
   "prelude": {
     "dependencies": [],
