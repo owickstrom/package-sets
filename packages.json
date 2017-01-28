@@ -589,6 +589,43 @@
     "repo": "https://github.com/pure11/purescript-quickcheck.git",
     "version": "master"
   },
+  "quickcheck-laws": {
+    "dependencies": [
+      "arrays",
+      "bifunctors",
+      "console",
+      "control",
+      "distributive",
+      "eff",
+      "either",
+      "exceptions",
+      "foldable-traversable",
+      "generics",
+      "identity",
+      "integers",
+      "invariant",
+      "lazy",
+      "lists",
+      "math",
+      "maybe",
+      "monoid",
+      "newtype",
+      "nonempty",
+      "partial",
+      "prelude",
+      "proxy",
+      "quickcheck",
+      "random",
+      "st",
+      "strings",
+      "tailrec",
+      "transformers",
+      "tuples",
+      "unfoldable"
+    ],
+    "repo": "https://github.com/garyb/purescript-quickcheck-laws.git",
+    "version": "v2.1.0"
+  },
   "random": {
     "dependencies": [
       "control",
