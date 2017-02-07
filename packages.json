@@ -247,7 +247,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-free.git",
-    "version": "v3.1.0"
+    "version": "v3.3.0"
   },
   "freet": {
       "dependencies": [
@@ -341,10 +341,12 @@
       "maybe",
       "monoid",
       "newtype",
-      "prelude"
+      "prelude",
+      "symbols",
+      "unsafe-coerce"
     ],
     "repo": "https://github.com/purescript/purescript-generics-rep.git",
-    "version": "v4.0.0"
+    "version": "v4.1.0"
   },
   "identity": {
     "dependencies": [
@@ -476,7 +478,7 @@
       "unfoldable"
     ],
     "repo": "https://github.com/purescript/purescript-lists.git",
-    "version": "v3.3.0"
+    "version": "v3.4.0"
   },
   "machines": {
       "dependencies": [
@@ -570,7 +572,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-newtype.git",
-    "version": "v1.1.0"
+    "version": "v1.2.0"
   },
   "nonempty": {
     "dependencies": [
@@ -903,6 +905,7 @@
       "maybe",
       "monoid",
       "newtype",
+      "partial",
       "prelude"
     ],
     "repo": "https://github.com/pure11/purescript-strings.git",
@@ -975,7 +978,7 @@
       "prelude"
     ],
     "repo": "https://github.com/purescript/purescript-tuples.git",
-    "version": "v3.0.0"
+    "version": "v3.1.0"
   },
   "type-equality": {
     "dependencies": [],
@@ -1013,6 +1016,7 @@
       "maybe",
       "monoid",
       "newtype",
+      "partial",
       "prelude",
       "strings"
     ],
